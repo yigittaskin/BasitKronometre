@@ -1,1 +1,1 @@
-# BasitKronometre
+# C# ile Basit Kronometre
