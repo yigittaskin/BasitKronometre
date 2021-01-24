@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\MyBeginnerKronometre\MyBeginnerKronometre\bin\Debug\MyBeginnerKronometre.exe.config
+C:\Users\pc\Desktop\MyBeginnerKronometre\MyBeginnerKronometre\bin\Debug\MyBeginnerKronometre.exe
+C:\Users\pc\Desktop\MyBeginnerKronometre\MyBeginnerKronometre\bin\Debug\MyBeginnerKronometre.pdb
+C:\Users\pc\Desktop\MyBeginnerKronometre\MyBeginnerKronometre\obj\Debug\MyBeginnerKronometre.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\MyBeginnerKronometre\MyBeginnerKronometre\obj\Debug\MyBeginnerKronometre.Form1.resources
+C:\Users\pc\Desktop\MyBeginnerKronometre\MyBeginnerKronometre\obj\Debug\MyBeginnerKronometre.Properties.Resources.resources
+C:\Users\pc\Desktop\MyBeginnerKronometre\MyBeginnerKronometre\obj\Debug\MyBeginnerKronometre.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\MyBeginnerKronometre\MyBeginnerKronometre\obj\Debug\MyBeginnerKronometre.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\MyBeginnerKronometre\MyBeginnerKronometre\obj\Debug\MyBeginnerKronometre.exe
+C:\Users\pc\Desktop\MyBeginnerKronometre\MyBeginnerKronometre\obj\Debug\MyBeginnerKronometre.pdb
